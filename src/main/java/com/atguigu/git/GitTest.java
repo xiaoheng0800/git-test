@@ -12,6 +12,6 @@ public class GitTest {
         System.out.print("qwerttreqwertyuioiuytrewertyu11111");
         System.out.print("qwerttreqwertyuioiuytrewertyu22222");
         System.out.print("qwerttreqwertyuioiuytrewertyu4444444");
-
+        System.out.print("qwerttreqwertyuioiuytrewertyu66666666");
     }
 }
